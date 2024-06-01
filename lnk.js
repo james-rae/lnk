@@ -2,6 +2,7 @@ const dayta = [
     { u: 'www.love-and-hisses.com/', i: 'rufous' },
     { u: 'en.wikipedia.org/wiki/Main_Page', i: 'wik' },
     { u: 'www.metal-archives.com/', i: 'dio' },
+    { u: 'www.hipmuseum.com/', i: 'mrpaullanglois' },
     { u: 'www.prestigeguitars.com/', i: 'wook' },
     { u: 'antifandom.com/solforge/wiki/SolForge_Wiki', i: 'forge' },
     { u: 'grousewood-games.github.io/solforge/play/', i: 'mmw' },
@@ -10,11 +11,13 @@ const dayta = [
     { u: 'developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects', i: 'moz' },
     { u: 'javascript.info/', i: 'mjs' },
     { u: 'css-tricks.com/', i: 'css' },
+    { u: 'www.joshwcomeau.com/goodies/', i: 'jc' },
     { u: 'www.redblobgames.com/', i: 'blob' },
     { u: 'krita.org/en/', i: 'krit' },
     { u: 'andykehoe.art/', i: 'kehoe' },
     { u: 'www.ninnsalaun.com/', i: 'ninn' },
-    { u: 'www.photopea.com/', i: 'pea' }
+    { u: 'www.photopea.com/', i: 'pea' },
+    { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' }
 ];
 
 const nugget = data => {
@@ -22,7 +25,6 @@ const nugget = data => {
     img.src = `img/${data.i}.jpg`;
 
     const anchor = document.createElement('a');
-    // TODO pre-pend  if can rock it
     anchor.href = 'https://' + data.u;
 
     anchor.appendChild(img);
