@@ -13,6 +13,8 @@ const dayta = [
     { u: 'css-tricks.com/', i: 'css' },
     { u: 'www.joshwcomeau.com/goodies/', i: 'jc' },
     { u: 'www.redblobgames.com/', i: 'blob' },
+    { u: 'www.fffuel.co', i: 'fffuel' },
+    { u: 'app.codeimage.dev', i: 'code' },
     { u: 'krita.org/en/', i: 'krit' },
     { u: 'andykehoe.art/', i: 'kehoe' },
     { u: 'www.ninnsalaun.com/', i: 'ninn' },
