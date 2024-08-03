@@ -18,6 +18,7 @@ const dayta = [
     { u: 'www.fffuel.co', i: 'fffuel' },
     { u: 'app.codeimage.dev', i: 'code' },
     { u: 'krita.org/en/', i: 'krit' },
+    { u: 'theartsquirrel.com', i: 'nutter' },
     { u: 'andykehoe.art/', i: 'kehoe' },
     { u: 'www.ninnsalaun.com/', i: 'ninn' },
     { u: 'www.photopea.com/', i: 'pea' },
