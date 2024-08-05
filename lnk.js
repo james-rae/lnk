@@ -26,7 +26,9 @@ const dayta = [
     { u: 'andykehoe.art/', i: 'kehoe' },
     { u: 'www.ninnsalaun.com/', i: 'ninn' },
     { u: 'www.photopea.com/', i: 'pea' },
-    { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' }
+    { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' },
+    { u: 'youtu.be/PeihcfYft9w', i: 'democracy' },
+    { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' }
 ];
 
 const nugget = data => {
