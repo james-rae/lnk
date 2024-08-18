@@ -16,6 +16,7 @@ const dayta = [
     { u: 'www.abjt.dev/lab', i: 'abjt' },
     { u: 'www.redblobgames.com/', i: 'blob' },
     { u: 'www.fffuel.co', i: 'fffuel' },
+    { u: 'www.learnui.design/tools/', i: 'lui' },
     { u: 'leonardocolor.io/', i: 'leo' },
     { u: 'app.codeimage.dev', i: 'code' },
     { u: 'pixijs.com/', i: 'pixi' },
