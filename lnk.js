@@ -15,6 +15,7 @@ const iconData = {
         { u: 'earth.nullschool.net/#current/wind/surface/level/orthographic=-78.24,43.54,2612/loc=-79.528,43.619', i: 'whind' },
         { u: 'developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects', i: 'moz' },
         { u: 'javascript.info/', i: 'mjs' },
+        { u: 'patriciogonzalezvivo.com', i: 'pgv' },
         { u: 'css-tricks.com/', i: 'css' },
         { u: 'www.joshwcomeau.com/', i: 'jc' },
         { u: 'www.abjt.dev/lab', i: 'abjt' },
@@ -23,26 +24,24 @@ const iconData = {
         { u: 'www.learnui.design/tools/', i: 'lui' },
         { u: 'leonardocolor.io/', i: 'leo' },
         { u: 'app.codeimage.dev', i: 'code' },
-        { u: 'pixijs.com/', i: 'pixi' },
-        { u: 'threejs.org', i: 'three' },
         { u: 'offscreencanvas.com', i: 'ocanv' },
-        { u: 'krita.org/en/', i: 'krit' },
         { u: 'theartsquirrel.com', i: 'nutter' },
-        { u: 'andykehoe.art/', i: 'kehoe' },
-        { u: 'www.ninnsalaun.com/', i: 'ninn' },
-        { u: 'www.photopea.com/', i: 'pea' },
         { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' },
-        { u: 'youtu.be/PeihcfYft9w', i: 'democracy' },
-        { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' }
+        { u: '#code', i: 'shampler' },
+        { u: '#ahhhrt', i: 'shutyouryapper' },
+        { u: '#uchube', i: 'mike' }
     ],
     '#trickery': [{ u: 'css-tricks.com/', i: 'css' }],
     '#uchube': [
         { u: 'youtu.be/PeihcfYft9w', i: 'democracy' },
-        { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' }
+        { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' },
+        { u: 'youtu.be/zzk0VQ0dVMU', i: 'graf' },
+        { u: 'youtu.be/-xr9rIQxwj4', i: 'greatsim' }
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
         { u: 'threejs.org', i: 'three' },
+        { u: 'www.blender.org', i: 'blender' },
         { u: 'krita.org/en/', i: 'krit' },
         { u: 'www.photopea.com/', i: 'pea' }
     ],
@@ -88,7 +87,7 @@ const loadList = () => {
 
     if (hasher) {
         // inject back button
-        listDiv.appendChild(nugget({ u: '#', i: 'democracy' }));
+        listDiv.appendChild(nugget({ u: '#', i: 'back' }));
     } else {
         // either root, or invalid hash. load root
         dataArr = iconData.root;
