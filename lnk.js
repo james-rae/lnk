@@ -99,7 +99,7 @@ const loadList = () => {
 
 window.onload = () => {
     const fancyUrl = new URL(window.location);
-    rootUrl = fancyUrl.host + fancyUrl.pathname;
+    rootUrl = fancyUrl.origin + fancyUrl.pathname;
     listDiv = document.getElementById('lisht');
 
     // watch for url hash changes
