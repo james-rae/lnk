@@ -15,8 +15,6 @@ const iconData = {
         { u: 'earth.nullschool.net/#current/wind/surface/level/orthographic=-78.24,43.54,2612/loc=-79.528,43.619', i: 'whind' },
         { u: 'developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects', i: 'moz' },
         { u: 'javascript.info/', i: 'mjs' },
-        { u: 'patriciogonzalezvivo.com', i: 'pgv' },
-        { u: 'css-tricks.com/', i: 'css' },
         { u: 'www.joshwcomeau.com/', i: 'jc' },
         { u: 'www.abjt.dev/lab', i: 'abjt' },
         { u: 'www.redblobgames.com/', i: 'blob' },
@@ -27,12 +25,23 @@ const iconData = {
         { u: 'offscreencanvas.com', i: 'ocanv' },
         { u: 'theartsquirrel.com', i: 'nutter' },
         { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' },
+        { u: '#trickery', i: 'css' },
         { u: '#code', i: 'shampler' },
         { u: '#ahhhrt', i: 'shutyouryapper' },
         { u: '#uchube', i: 'mike' }
     ],
-    '#trickery': [{ u: 'css-tricks.com/', i: 'css' }],
+    '#trickery': [
+        { u: 'css-tricks.com/', i: 'css' },
+        { u: 'css-tricks.com/snippets/css/a-guide-to-flexbox/', i: 'flex' },
+        { u: 'css-tricks.com/snippets/css/complete-guide-grid/', i: 'grid' },
+        { u: 'css-tricks.com/css-container-queries/', i: 'contq' },
+        { u: 'css-tricks.com/css-length-units/', i: 'units' },
+        { u: 'css-tricks.com/a-complete-guide-to-css-media-queries/', i: 'media' },
+        { u: 'css-tricks.com/a-complete-guide-to-links-and-buttons/', i: 'nah' },
+        { u: 'css-tricks.com/css-ing-candy-ghost-buttons/', i: 'boo' }
+    ],
     '#uchube': [
+        { u: 'www.youtube.com/@dangreenheck', i: 'greenheck' },
         { u: 'youtu.be/PeihcfYft9w', i: 'democracy' },
         { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' },
         { u: 'youtu.be/zzk0VQ0dVMU', i: 'graf' },
@@ -99,7 +108,7 @@ const loadList = () => {
 
 window.onload = () => {
     const fancyUrl = new URL(window.location);
-    rootUrl = fancyUrl.origin + fancyUrl.pathname;
+    rootUrl = fancyUrl.origin + fancyUrl.pathname; // change .origin to .host to test on file system
     listDiv = document.getElementById('lisht');
 
     // watch for url hash changes
