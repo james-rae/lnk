@@ -45,6 +45,7 @@ const iconData = {
         { u: 'youtu.be/PeihcfYft9w', i: 'democracy' },
         { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' },
         { u: 'youtu.be/zzk0VQ0dVMU', i: 'graf' },
+        { u: 'youtu.be/hkDD03yeLnU', i: 'vb' },
         { u: 'youtu.be/-xr9rIQxwj4', i: 'greatsim' }
     ],
     '#code': [
@@ -56,7 +57,8 @@ const iconData = {
     ],
     '#ahhhrt': [
         { u: 'andykehoe.art/', i: 'kehoe' },
-        { u: 'www.ninnsalaun.com/', i: 'ninn' }
+        { u: 'www.ninnsalaun.com/', i: 'ninn' },
+        { u: 'www.heart-to-art.com/', i: 'gross' }
     ]
 };
 
