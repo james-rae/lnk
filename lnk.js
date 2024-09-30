@@ -58,7 +58,9 @@ const iconData = {
     '#ahhhrt': [
         { u: 'andykehoe.art/', i: 'kehoe' },
         { u: 'www.ninnsalaun.com/', i: 'ninn' },
-        { u: 'www.heart-to-art.com/', i: 'gross' }
+        { u: 'www.heart-to-art.com/', i: 'gross' },
+        { u: 'www.rheaoneill.com/', i: 'rheo' },
+        { u: 'sarahmckendry.ca/portfolio', i: 'smk' }
     ]
 };
 
