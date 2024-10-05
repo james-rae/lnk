@@ -60,7 +60,11 @@ const iconData = {
         { u: 'www.ninnsalaun.com/', i: 'ninn' },
         { u: 'www.heart-to-art.com/', i: 'gross' },
         { u: 'www.rheaoneill.com/', i: 'rheo' },
-        { u: 'sarahmckendry.ca/portfolio', i: 'smk' }
+        { u: 'robertbissell.com', i: 'bissell' },
+        { u: 'taplink.cc/liskaflower', i: 'liska' },
+        { u: 'www.laivipoder.com', i: 'poder' },
+        { u: 'sarahmckendry.ca/portfolio', i: 'smk' },
+        { u: 'www.jogrundyart.co.uk', i: 'grundy' }
     ]
 };
 
