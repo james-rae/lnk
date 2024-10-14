@@ -24,11 +24,15 @@ const iconData = {
         { u: 'app.codeimage.dev', i: 'code' },
         { u: 'offscreencanvas.com', i: 'ocanv' },
         { u: 'theartsquirrel.com', i: 'nutter' },
+        { u: 'oimo.io/works/life/', i: 'rlife' },
         { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' },
+        { u: 'neal.fun', i: 'neal' },
+        { u: 'ytoo.org', i: 'ytoo' },
         { u: '#trickery', i: 'css' },
         { u: '#code', i: 'shampler' },
         { u: '#ahhhrt', i: 'shutyouryapper' },
-        { u: '#uchube', i: 'mike' }
+        { u: '#uchube', i: 'mike' },
+        { u: '#qaabtoaaapfo', i: 'qaabtoaaapfo' }
     ],
     '#trickery': [
         { u: 'css-tricks.com/', i: 'css' },
@@ -46,14 +50,18 @@ const iconData = {
         { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' },
         { u: 'youtu.be/zzk0VQ0dVMU', i: 'graf' },
         { u: 'youtu.be/hkDD03yeLnU', i: 'vb' },
-        { u: 'youtu.be/-xr9rIQxwj4', i: 'greatsim' }
+        { u: 'youtu.be/Ca9CJ1u6ACg', i: 'melchett' },
+        { u: 'youtu.be/bjVNOGEWzv4', i: 'torlet' },
+        { u: 'youtu.be/Cx8sl2uC46A', i: 'bard' }
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
         { u: 'threejs.org', i: 'three' },
         { u: 'www.blender.org', i: 'blender' },
         { u: 'krita.org/en/', i: 'krit' },
-        { u: 'www.photopea.com/', i: 'pea' }
+        { u: 'www.photopea.com/', i: 'pea' },
+        { u: 'inkscape.org', i: 'ink' },
+        { u: 'www.gafferhq.org', i: 'gaff' }
     ],
     '#ahhhrt': [
         { u: 'andykehoe.art/', i: 'kehoe' },
@@ -66,7 +74,13 @@ const iconData = {
         { u: 'www.laivipoder.com', i: 'poder' },
         { u: 'shaylenastenback.com', i: 'shaysten' },
         { u: 'sarahmckendry.ca/portfolio', i: 'smk' },
-        { u: 'www.jogrundyart.co.uk', i: 'grundy' }
+        { u: 'www.jogrundyart.co.uk', i: 'grundy' },
+        { u: 'artistsincanada.com/margaret', i: 'mchw' }
+    ],
+    '#qaabtoaaapfo': [
+        { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
+        { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
+        { u: 'wtfhappenedin1971.com', i: '1971' }
     ]
 };
 
