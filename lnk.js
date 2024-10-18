@@ -52,7 +52,13 @@ const iconData = {
         { u: 'youtu.be/hkDD03yeLnU', i: 'vb' },
         { u: 'youtu.be/Ca9CJ1u6ACg', i: 'melchett' },
         { u: 'youtu.be/bjVNOGEWzv4', i: 'torlet' },
-        { u: 'youtu.be/Cx8sl2uC46A', i: 'bard' }
+        { u: 'youtu.be/Cx8sl2uC46A', i: 'bard' },
+        { u: 'youtu.be/zSgiXGELjbc', i: 'glorious' },
+        { u: 'youtu.be/a5d9BrLN5K4', i: 'milkshake' },
+        { u: 'youtu.be/S18Jrpz1wsw', i: 'anhoop' },
+        { u: 'youtu.be/hFoLv3bTLSc', i: 'klown' },
+        { u: 'youtu.be/D40WXo9eP4Y', i: 'clovis' },
+        { u: 'youtu.be/PDRFPXtBSIg', i: 'goodpie' }
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
