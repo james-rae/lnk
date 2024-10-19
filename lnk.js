@@ -79,9 +79,13 @@ const iconData = {
         { u: 'taplink.cc/liskaflower', i: 'liska' },
         { u: 'www.laivipoder.com', i: 'poder' },
         { u: 'shaylenastenback.com', i: 'shaysten' },
+        { u: 'www.lilyseikajones.com', i: 'lsj' },
         { u: 'sarahmckendry.ca/portfolio', i: 'smk' },
         { u: 'www.jogrundyart.co.uk', i: 'grundy' },
-        { u: 'artistsincanada.com/margaret', i: 'mchw' }
+        { u: 'artistsincanada.com/margaret', i: 'mchw' },
+        { u: 'www.kisungkoh.com', i: 'koh' },
+        { u: 'www.dewiplass.com/', i: 'dewi' },
+        { u: 'andrewhopgoodart.com.au', i: 'hopgood' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
