@@ -73,6 +73,7 @@ const iconData = {
         { u: 'andykehoe.art/', i: 'kehoe' },
         { u: 'www.ninnsalaun.com/', i: 'ninn' },
         { u: 'www.richardwellsgraphics.com', i: 'slippery' },
+        { u: 'www.misunholdorf.com', i: 'dorf' },
         { u: 'www.heart-to-art.com/', i: 'gross' },
         { u: 'www.rheaoneill.com/', i: 'rheo' },
         { u: 'robertbissell.com', i: 'bissell' },
@@ -85,7 +86,8 @@ const iconData = {
         { u: 'artistsincanada.com/margaret', i: 'mchw' },
         { u: 'www.kisungkoh.com', i: 'koh' },
         { u: 'www.dewiplass.com/', i: 'dewi' },
-        { u: 'andrewhopgoodart.com.au', i: 'hopgood' }
+        { u: 'andrewhopgoodart.com.au', i: 'hopgood' },
+        { u: 'www.helenahpornsiri.com', i: 'hahp' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
