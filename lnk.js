@@ -58,11 +58,14 @@ const iconData = {
         { u: 'youtu.be/S18Jrpz1wsw', i: 'anhoop' },
         { u: 'youtu.be/hFoLv3bTLSc', i: 'klown' },
         { u: 'youtu.be/D40WXo9eP4Y', i: 'clovis' },
-        { u: 'youtu.be/PDRFPXtBSIg', i: 'goodpie' }
+        { u: 'youtu.be/PDRFPXtBSIg', i: 'goodpie' },
+        { u: 'youtu.be/_AcegrdUAs8', i: 'squiddy' },
+        { u: 'youtu.be/zXx8wrpeEwE', i: 'meister' }
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
         { u: 'threejs.org', i: 'three' },
+        { u: 'threejsresources.com', i: 'tjsres' },
         { u: 'www.blender.org', i: 'blender' },
         { u: 'krita.org/en/', i: 'krit' },
         { u: 'www.photopea.com/', i: 'pea' },
