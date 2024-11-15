@@ -45,7 +45,6 @@ const iconData = {
         { u: 'css-tricks.com/css-ing-candy-ghost-buttons/', i: 'boo' }
     ],
     '#uchube': [
-        { u: 'www.youtube.com/@dangreenheck', i: 'greenheck' },
         { u: 'youtu.be/PeihcfYft9w', i: 'democracy' },
         { u: 'youtu.be/RLh62htgbW8', i: 'mercyful' },
         { u: 'youtu.be/zzk0VQ0dVMU', i: 'graf' },
@@ -70,7 +69,8 @@ const iconData = {
         { u: 'krita.org/en/', i: 'krit' },
         { u: 'www.photopea.com/', i: 'pea' },
         { u: 'inkscape.org', i: 'ink' },
-        { u: 'www.gafferhq.org', i: 'gaff' }
+        { u: 'www.gafferhq.org', i: 'gaff' },
+        { u: 'www.youtube.com/@dangreenheck', i: 'greenheck' }
     ],
     '#ahhhrt': [
         { u: 'andykehoe.art/', i: 'kehoe' },
@@ -90,7 +90,9 @@ const iconData = {
         { u: 'www.kisungkoh.com', i: 'koh' },
         { u: 'www.dewiplass.com/', i: 'dewi' },
         { u: 'andrewhopgoodart.com.au', i: 'hopgood' },
-        { u: 'www.helenahpornsiri.com', i: 'hahp' }
+        { u: 'www.helenahpornsiri.com', i: 'hahp' },
+        { u: 'www.travischapmanart.com', i: 'chappers' },
+        { u: 'www.kaetlynable.com', i: 'kable' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
