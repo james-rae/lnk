@@ -27,6 +27,7 @@ const iconData = {
         { u: 'oimo.io/works/life/', i: 'rlife' },
         { u: 'dnalc.cshl.edu/resources/animations/', i: 'dna' },
         { u: 'neal.fun', i: 'neal' },
+        { u: 'arbesman.net/computationaldelights/', i: 'dlite' },
         { u: 'ytoo.org', i: 'ytoo' },
         { u: '#trickery', i: 'css' },
         { u: '#code', i: 'shampler' },
@@ -65,6 +66,7 @@ const iconData = {
         { u: 'pixijs.com/', i: 'pixi' },
         { u: 'threejs.org', i: 'three' },
         { u: 'threejsresources.com', i: 'tjsres' },
+        { u: 'www.solidjs.com', i: 'solid' },
         { u: 'www.blender.org', i: 'blender' },
         { u: 'krita.org/en/', i: 'krit' },
         { u: 'www.photopea.com/', i: 'pea' },
@@ -83,6 +85,7 @@ const iconData = {
         { u: 'taplink.cc/liskaflower', i: 'liska' },
         { u: 'www.laivipoder.com', i: 'poder' },
         { u: 'shaylenastenback.com', i: 'shaysten' },
+        { u: 'www.travischapmanart.com', i: 'chappers' },
         { u: 'www.lilyseikajones.com', i: 'lsj' },
         { u: 'sarahmckendry.ca/portfolio', i: 'smk' },
         { u: 'www.jogrundyart.co.uk', i: 'grundy' },
@@ -91,13 +94,14 @@ const iconData = {
         { u: 'www.dewiplass.com/', i: 'dewi' },
         { u: 'andrewhopgoodart.com.au', i: 'hopgood' },
         { u: 'www.helenahpornsiri.com', i: 'hahp' },
-        { u: 'www.travischapmanart.com', i: 'chappers' },
-        { u: 'www.kaetlynable.com', i: 'kable' }
+        { u: 'www.kaetlynable.com', i: 'kable' },
+        { u: 'www.tamsinabbott.co.uk/portfolio/', i: 'tams' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
         { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
-        { u: 'wtfhappenedin1971.com', i: '1971' }
+        { u: 'wtfhappenedin1971.com', i: '1971' },
+        { u: 'nonzerosum.games', i: 'nzsg' }
     ]
 };
 
