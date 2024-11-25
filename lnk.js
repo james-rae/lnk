@@ -18,6 +18,7 @@ const iconData = {
         { u: 'www.joshwcomeau.com/', i: 'jc' },
         { u: 'www.abjt.dev/lab', i: 'abjt' },
         { u: 'www.redblobgames.com/', i: 'blob' },
+        { u: 'easingwizard.com', i: 'easing' },
         { u: 'www.fffuel.co', i: 'fffuel' },
         { u: 'www.learnui.design/tools/', i: 'lui' },
         { u: 'leonardocolor.io/', i: 'leo' },
@@ -95,7 +96,8 @@ const iconData = {
         { u: 'andrewhopgoodart.com.au', i: 'hopgood' },
         { u: 'www.helenahpornsiri.com', i: 'hahp' },
         { u: 'www.kaetlynable.com', i: 'kable' },
-        { u: 'www.tamsinabbott.co.uk/portfolio/', i: 'tams' }
+        { u: 'www.tamsinabbott.co.uk/portfolio/', i: 'tams' },
+        { u: 'www.richardahnert.com', i: 'rahnert' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
