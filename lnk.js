@@ -34,6 +34,7 @@ const iconData = {
         { u: '#code', i: 'shampler' },
         { u: '#ahhhrt', i: 'shutyouryapper' },
         { u: '#uchube', i: 'mike' },
+        { u: '#philm', i: 'philm' },
         { u: '#qaabtoaaapfo', i: 'qaabtoaaapfo' }
     ],
     '#trickery': [
@@ -62,6 +63,12 @@ const iconData = {
         { u: 'youtu.be/PDRFPXtBSIg', i: 'goodpie' },
         { u: 'youtu.be/_AcegrdUAs8', i: 'squiddy' },
         { u: 'youtu.be/zXx8wrpeEwE', i: 'meister' }
+    ],
+    '#philm': [
+        { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
+        { u: 'youtu.be/dt4Nz-69_Yk', i: 'progeny' },
+        { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
+        { u: 'youtu.be/pX2nOzce9RI', i: 'roomtone' }
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
@@ -103,7 +110,8 @@ const iconData = {
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
         { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
         { u: 'wtfhappenedin1971.com', i: '1971' },
-        { u: 'nonzerosum.games', i: 'nzsg' }
+        { u: 'nonzerosum.games', i: 'nzsg' },
+        { u: 'pursuitofwonder.com', i: 'pow' }
     ]
 };
 
