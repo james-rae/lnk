@@ -18,6 +18,7 @@ const iconData = {
         { u: 'www.joshwcomeau.com/', i: 'jc' },
         { u: 'www.abjt.dev/lab', i: 'abjt' },
         { u: 'www.redblobgames.com/', i: 'blob' },
+        { u: 'watabou.github.io', i: 'procarc' },
         { u: 'easingwizard.com', i: 'easing' },
         { u: 'www.fffuel.co', i: 'fffuel' },
         { u: 'www.learnui.design/tools/', i: 'lui' },
