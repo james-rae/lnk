@@ -15,4 +15,5 @@ a {
 
 img {
     border-radius: 7%;
+    display: block; /* removes bottom padding (stops treating it like text-ish content */
 }
