@@ -66,6 +66,7 @@ const iconData = {
         { u: 'youtu.be/zXx8wrpeEwE', i: 'meister' }
     ],
     '#philm': [
+        { u: 'youtu.be/9ZXFaaQJb0c', i: 'rusty' },
         { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
         { u: 'youtu.be/dt4Nz-69_Yk', i: 'progeny' },
         { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
@@ -81,7 +82,9 @@ const iconData = {
         { u: 'www.photopea.com/', i: 'pea' },
         { u: 'inkscape.org', i: 'ink' },
         { u: 'www.gafferhq.org', i: 'gaff' },
-        { u: 'www.youtube.com/@dangreenheck', i: 'greenheck' }
+        { u: 'www.youtube.com/@dangreenheck', i: 'greenheck' },
+        { u: 'github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#anger-table-of-contents', i: 'bkskn' },
+        { u: 'github.com/EbookFoundation/free-programming-books?tab=readme-ov-file#resources', i: 'frebook' }
     ],
     '#ahhhrt': [
         { u: 'andykehoe.art/', i: 'kehoe' },
