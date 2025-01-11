@@ -67,9 +67,9 @@ const iconData = {
     ],
     '#philm': [
         { u: 'youtu.be/9ZXFaaQJb0c', i: 'rusty' },
-        { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
         { u: 'youtu.be/dt4Nz-69_Yk', i: 'progeny' },
         { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
+        { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
         { u: 'youtu.be/pX2nOzce9RI', i: 'roomtone' }
     ],
     '#code': [
@@ -108,7 +108,9 @@ const iconData = {
         { u: 'www.helenahpornsiri.com', i: 'hahp' },
         { u: 'www.kaetlynable.com', i: 'kable' },
         { u: 'www.tamsinabbott.co.uk/portfolio/', i: 'tams' },
-        { u: 'www.richardahnert.com', i: 'rahnert' }
+        { u: 'www.richardahnert.com', i: 'rahnert' },
+        { u: 'dillonsamuelson.com/', i: 'dyelon' },
+        { u: 'www.lisaericson.com', i: 'lerics' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
