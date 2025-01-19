@@ -63,7 +63,8 @@ const iconData = {
         { u: 'youtu.be/D40WXo9eP4Y', i: 'clovis' },
         { u: 'youtu.be/PDRFPXtBSIg', i: 'goodpie' },
         { u: 'youtu.be/_AcegrdUAs8', i: 'squiddy' },
-        { u: 'youtu.be/zXx8wrpeEwE', i: 'meister' }
+        { u: 'youtu.be/zXx8wrpeEwE', i: 'meister' },
+        { u: 'youtu.be/EQiSgWGAc24', i: 'plantman' }
     ],
     '#philm': [
         { u: 'youtu.be/9ZXFaaQJb0c', i: 'rusty' },
@@ -110,7 +111,8 @@ const iconData = {
         { u: 'www.tamsinabbott.co.uk/portfolio/', i: 'tams' },
         { u: 'www.richardahnert.com', i: 'rahnert' },
         { u: 'dillonsamuelson.com/', i: 'dyelon' },
-        { u: 'www.lisaericson.com', i: 'lerics' }
+        { u: 'www.lisaericson.com', i: 'lerics' },
+        { u: 'www.shadowscapes.com/', i: 'thelaw' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
