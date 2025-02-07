@@ -112,7 +112,8 @@ const iconData = {
         { u: 'www.richardahnert.com', i: 'rahnert' },
         { u: 'dillonsamuelson.com/', i: 'dyelon' },
         { u: 'www.lisaericson.com', i: 'lerics' },
-        { u: 'www.shadowscapes.com/', i: 'thelaw' }
+        { u: 'www.shadowscapes.com/', i: 'thelaw' },
+        { u: 'www.mac-smith.com/', i: 'scurry' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
