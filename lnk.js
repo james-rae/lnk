@@ -113,7 +113,10 @@ const iconData = {
         { u: 'dillonsamuelson.com/', i: 'dyelon' },
         { u: 'www.lisaericson.com', i: 'lerics' },
         { u: 'www.shadowscapes.com/', i: 'thelaw' },
-        { u: 'www.mac-smith.com/', i: 'scurry' }
+        { u: 'www.mac-smith.com/', i: 'scurry' },
+        { u: 'annaevans.co.nz', i: 'anevan' },
+        { u: 'artofmarkbryan.com', i: 'mbry' },
+        { u: 'www.mendezmendez.com', i: 'mendez' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
