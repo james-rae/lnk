@@ -116,7 +116,9 @@ const iconData = {
         { u: 'www.mac-smith.com/', i: 'scurry' },
         { u: 'annaevans.co.nz', i: 'anevan' },
         { u: 'artofmarkbryan.com', i: 'mbry' },
-        { u: 'www.mendezmendez.com', i: 'mendez' }
+        { u: 'www.mendezmendez.com', i: 'mendez' },
+        { u: 'gillianruleart.com', i: 'rule' },
+        { u: 'www.marneyward.com', i: 'ward' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
