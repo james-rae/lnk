@@ -70,6 +70,7 @@ const iconData = {
         { u: 'youtu.be/9ZXFaaQJb0c', i: 'rusty' },
         { u: 'youtu.be/dt4Nz-69_Yk', i: 'progeny' },
         { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
+        { u: 'youtu.be/UY6CF6eqGd4', i: 'cupcake' },
         { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
         { u: 'youtu.be/pX2nOzce9RI', i: 'roomtone' }
     ],
