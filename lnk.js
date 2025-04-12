@@ -71,8 +71,20 @@ const iconData = {
         { u: 'youtu.be/dt4Nz-69_Yk', i: 'progeny' },
         { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
         { u: 'youtu.be/UY6CF6eqGd4', i: 'cupcake' },
+        { u: 'youtu.be/2S4zX-l6UD4', i: 'robbie' },
+        { u: 'youtu.be/BTBrOZiqAOo', i: 'gutter' },
+        { u: 'youtu.be/XYLgwxbwEb8', i: 'tunnel' },
+        { u: 'youtu.be/Bfdirk3dCew', i: 'white-tail' },
+        { u: 'youtu.be/O2Yea-nuoZs', i: 'moon' },
+        { u: 'youtu.be/aj5jr794EEA', i: 'call-center' },
+        { u: 'youtu.be/PGgRH7-Qs9g', i: 'tell' },
+        { u: 'youtu.be/js2932fcKOU', i: 'turn-around' },
         { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
-        { u: 'youtu.be/pX2nOzce9RI', i: 'roomtone' }
+        { u: 'youtu.be/pX2nOzce9RI', i: 'roomtone' },
+        { u: 'youtu.be/e-ta-kl-Bh4', i: 'flesh-blud' },
+        { u: 'youtu.be/Hik4n3Ld88Y', i: 'warning' },
+        { u: 'youtu.be/JnXOE6FFoWA', i: 'cope' },
+        { u: 'youtu.be/nnfh3qcpBxA', i: 'well' }
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
