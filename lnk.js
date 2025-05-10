@@ -71,10 +71,12 @@ const iconData = {
         { u: 'youtu.be/dt4Nz-69_Yk', i: 'progeny' },
         { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
         { u: 'youtu.be/UY6CF6eqGd4', i: 'cupcake' },
+        { u: 'youtu.be/M6czqkZs4aQ', i: 'senser' },
         { u: 'youtu.be/2S4zX-l6UD4', i: 'robbie' },
         { u: 'youtu.be/BTBrOZiqAOo', i: 'gutter' },
         { u: 'youtu.be/XYLgwxbwEb8', i: 'tunnel' },
         { u: 'youtu.be/Bfdirk3dCew', i: 'white-tail' },
+        { u: 'youtu.be/sJ5ZEQGiVcw', i: 'fry' },
         { u: 'youtu.be/O2Yea-nuoZs', i: 'moon' },
         { u: 'youtu.be/aj5jr794EEA', i: 'call-center' },
         { u: 'youtu.be/PGgRH7-Qs9g', i: 'tell' },
@@ -82,9 +84,14 @@ const iconData = {
         { u: 'youtu.be/WeYTWhl84cs', i: 'barber' },
         { u: 'youtu.be/pX2nOzce9RI', i: 'roomtone' },
         { u: 'youtu.be/e-ta-kl-Bh4', i: 'flesh-blud' },
+        { u: 'youtu.be/6eaZZc7O2PE', i: 'hole' },
+        { u: 'youtu.be/_qOt2UIUjXc', i: 'barb' },
+        { u: 'youtu.be/hCd47WDgAsE', i: 'veggy' },
+        { u: 'youtu.be/Q2aoN61oKuI', i: 'doll' },
         { u: 'youtu.be/Hik4n3Ld88Y', i: 'warning' },
         { u: 'youtu.be/JnXOE6FFoWA', i: 'cope' },
         { u: 'youtu.be/nnfh3qcpBxA', i: 'well' }
+        // { u: 'youtu.be/', i: '' },
     ],
     '#code': [
         { u: 'pixijs.com/', i: 'pixi' },
@@ -138,7 +145,8 @@ const iconData = {
         { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
         { u: 'wtfhappenedin1971.com', i: '1971' },
         { u: 'nonzerosum.games', i: 'nzsg' },
-        { u: 'pursuitofwonder.com', i: 'pow' }
+        { u: 'pursuitofwonder.com', i: 'pow' },
+        { u: 'youtube.com/@functionalmelancholic', i: 'sisy' }
     ]
 };
 
