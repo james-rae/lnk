@@ -64,7 +64,8 @@ const iconData = {
         { u: 'youtu.be/PDRFPXtBSIg', i: 'goodpie' },
         { u: 'youtu.be/_AcegrdUAs8', i: 'squiddy' },
         { u: 'youtu.be/zXx8wrpeEwE', i: 'meister' },
-        { u: 'youtu.be/EQiSgWGAc24', i: 'plantman' }
+        { u: 'youtu.be/EQiSgWGAc24', i: 'plantman' },
+        { u: 'youtu.be/qRuNxHqwazs', i: 'powerthirst' }
     ],
     '#philm': [
         { u: 'youtu.be/9ZXFaaQJb0c', i: 'rusty' },
@@ -72,8 +73,11 @@ const iconData = {
         { u: 'youtu.be/x4BSuQJDuLQ', i: 'nsfw' },
         { u: 'youtu.be/UY6CF6eqGd4', i: 'cupcake' },
         { u: 'youtu.be/M6czqkZs4aQ', i: 'senser' },
+        { u: 'youtu.be/7mSH86O2qzA', i: 'stalled' },
         { u: 'youtu.be/cZu5ouhrDzQ', i: 'pelican' },
         { u: 'youtu.be/HFxEYlyt0po', i: 'cube' },
+        { u: 'youtu.be/hrtf5AR5e-Y', i: 'digger' },
+        { u: 'youtu.be/jObm_F780B0', i: 'stomach' },
         { u: 'youtu.be/2S4zX-l6UD4', i: 'robbie' },
         { u: 'youtu.be/BTBrOZiqAOo', i: 'gutter' },
         { u: 'youtu.be/XYLgwxbwEb8', i: 'tunnel' },
@@ -95,6 +99,7 @@ const iconData = {
         { u: 'youtu.be/9Akkaj7-ems', i: 'ohole' },
         { u: 'youtu.be/wgpoc5tEGvM', i: 'snek' },
         { u: 'youtu.be/_qOt2UIUjXc', i: 'barb' },
+        { u: 'youtu.be/dwpZdPwaSpo', i: 'alpha' },
         { u: 'youtu.be/pzVyCuvj1_s', i: 'upstairs' },
         { u: 'youtu.be/v9I0QHOiU0Y', i: 'swipe' },
         { u: 'youtu.be/OPbl8irPOEM', i: 'landgrave' },
