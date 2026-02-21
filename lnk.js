@@ -106,15 +106,19 @@ const iconData = {
         { u: 'youtu.be/1-facD9iuyQ', i: 'secret' },
         { u: 'youtu.be/pzVyCuvj1_s', i: 'upstairs' },
         { u: 'youtu.be/v9I0QHOiU0Y', i: 'swipe' },
+        { u: 'youtu.be/q0KKmxCY9MM', i: 'bible' },
         { u: 'youtu.be/OPbl8irPOEM', i: 'landgrave' },
         { u: 'youtu.be/yKnIxpAW578', i: 'fram' },
         { u: 'youtu.be/MYRyYs4SHqc', i: 'mmtn' },
         { u: 'youtu.be/hCd47WDgAsE', i: 'veggy' },
         { u: 'youtu.be/NX4_UlbJUL0', i: 'cleaner' },
         { u: 'youtu.be/Q2aoN61oKuI', i: 'doll' },
+        { u: 'youtu.be/EnYZX6z64lo', i: 'landing' },
         { u: 'youtu.be/6i0S_0S7Sak', i: 'trial' },
         { u: 'youtu.be/Hik4n3Ld88Y', i: 'warning' },
+        { u: 'youtu.be/F14Gu6cw86g', i: 'wolfhead' },
         { u: 'youtu.be/SgT7UG1gtgI', i: 'disappear' },
+        { u: 'youtu.be/fqdm-ZkzHEk', i: 'sleeptalk' },
         { u: 'youtu.be/JnXOE6FFoWA', i: 'cope' },
         { u: 'youtu.be/nnfh3qcpBxA', i: 'well' }
         // { u: 'youtu.be/', i: '' },
@@ -167,14 +171,16 @@ const iconData = {
         { u: 'gillianruleart.com', i: 'rule' },
         { u: 'www.marneyward.com', i: 'ward' },
         { u: 'www.snowypheasant.co.uk', i: 'pheasant' },
-        { u: 'www.elizabethcarringtonart.com/', i: 'carring' }
+        { u: 'www.elizabethcarringtonart.com/', i: 'carring' },
+        { u: 'kateaveryart.com/', i: 'kavery' }
     ],
     '#qaabtoaaapfo': [
         { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
-        { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
-        { u: 'wtfhappenedin1971.com', i: '1971' },
         { u: 'nonzerosum.games', i: 'nzsg' },
+        { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
+        { u: 'www.stevecutts.com/', i: 'cutts' },
         { u: 'pursuitofwonder.com', i: 'pow' },
+        { u: 'wtfhappenedin1971.com', i: '1971' },
         { u: 'youtube.com/@functionalmelancholic', i: 'sisy' }
     ]
 };
