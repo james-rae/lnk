@@ -175,11 +175,11 @@ const iconData = {
         { u: 'kateaveryart.com/', i: 'kavery' }
     ],
     '#qaabtoaaapfo': [
-        { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
-        { u: 'nonzerosum.games', i: 'nzsg' },
         { u: 'www.thegreatsimplification.com/', i: 'greatsim' },
-        { u: 'www.stevecutts.com/', i: 'cutts' },
+        { u: 'nonzerosum.games', i: 'nzsg' },
         { u: 'pursuitofwonder.com', i: 'pow' },
+        { u: 'www.stuartmcmillen.com/comics/', i: 'stumc' },
+        { u: 'www.stevecutts.com/', i: 'cutts' },
         { u: 'wtfhappenedin1971.com', i: '1971' },
         { u: 'youtube.com/@functionalmelancholic', i: 'sisy' }
     ]
